@@ -3,14 +3,14 @@ Sublime Color Scheme RSE
 ========================
 
 This is Ralf S. Engelschall (RSE)'s discreet color scheme for the
-Sublime Text 2 editor. It uses just 4 colors: "white" for the
-background, "back" as the default text color, "blue" for all language
-constructs (keywords and punctation characters) and "brown" for all
-literals (strings, numbers, etc). Nothing more, nothing less!
-
-Use this with the Soda Light theme and use the following additional
-Sublime Text 2 user preferences and you get a very elegant coding
-environment:
+Sublime Text editor. It uses just 4 colors: "white" for the background,
+"back" as the default text color, "blue" for all language constructs
+(keywords and punctation characters) and "brown" for all literals
+(strings, numbers, etc). Nothing more, nothing less! Use this in
+combination with the great "Soda Light" theme. For this, use Package
+Control to install "Theme - Soda" and "Color Scheme - RSE" and use the
+following additional Sublime Text 2 user preferences and you get a very
+elegant coding environment:
 
     {
         "theme": "Soda Light.sublime-theme",
@@ -24,7 +24,7 @@ environment:
 License
 -------
 
-Copyright (c) 2012-2013 Ralf S. Engelschall <rse@engelschall.com>
+Copyright &copy; 2012-2013 Ralf S. Engelschall (rse@engelschall.com)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
