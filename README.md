@@ -1,6 +1,6 @@
 
-Sublime Color Scheme RSE
-========================
+Sublime Text Color Scheme RSE
+=============================
 
 This is Ralf S. Engelschall (RSE)'s discreet color scheme for the
 Sublime Text editor (http://www.sublimetext.com/). It uses just 4
