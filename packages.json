@@ -2,11 +2,11 @@
     "schema_version": "1.2",
     "packages": [
         {
-            "name": "sublime-scheme-rse",
+            "name": "Color Scheme - RSE",
             "description": "Sublime Color Scheme RSE",
             "author": "Ralf S. Engelschall",
             "homepage": "https://github.com/rse/sublime-scheme-rse",
-            "last_modified": "2013-03-09 00:00:00",
+            "last_modified": "2013-03-23 00:00:00",
             "platforms": {
                 "*": [
                     {
