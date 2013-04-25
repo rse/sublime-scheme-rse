@@ -11,24 +11,24 @@ nothing less!
 
 For a very elegant coding environment, my preferred setup is:
 
-1. Install Sublime Text 2
-   http://www.sublimetext.com/
+1. Install Sublime Text 2<br/>
+   http://www.sublimetext.com/<br/>
    (the editor itself)
 
-2. Install Package Control for Sublime Text 2:
-   http://wbond.net/sublime\_packages/package\_control 
+2. Install Package Control for Sublime Text 2:<br/>
+   http://wbond.net/sublime\_packages/package\_control <br/>
    (the package manager for the editor)
 
-3. Install theme "Soda Light" via Package Control
-   http://buymeasoda.github.io/soda-theme/ 
+3. Install theme "Soda Light" via Package Control<br/>
+   http://buymeasoda.github.io/soda-theme/ <br/>
    (the GUI theme for the editor)
 
-4. Install this color schema "Color Schema - RSE" via Package Control
-   https://github.com/rse/sublime-scheme-rse   
+4. Install this color schema "Color Schema - RSE" via Package Control<br/>
+   https://github.com/rse/sublime-scheme-rse<br/>
    (the color scheme for the text area)
 
-5. Install the DejaVu font family
-   http://dejavu-fonts.org/ and then use the following Sublime
+5. Install the DejaVu font family<br/>
+   http://dejavu-fonts.org/<br/>
    (the font for the text area)
 
 6. Use the following Sublime Text 2 User Preferences which enables the
@@ -36,14 +36,14 @@ For a very elegant coding environment, my preferred setup is:
    height (very important as for coding we need the maximum number of
    lines on the screen):
 
-    {
-        "theme": "Soda Light.sublime-theme",
-        "soda_classic_tabs": true,
-        "color_scheme": "Packages/Color Scheme RSE/RSE.tmTheme",
-        "font_face": "DejaVu Sans Mono",
-        "line_padding_bottom": -2,
-        "line_padding_top": 0
-    }
+       {
+           "theme": "Soda Light.sublime-theme",
+           "soda_classic_tabs": true,
+           "color_scheme": "Packages/Color Scheme RSE/RSE.tmTheme",
+           "font_face": "DejaVu Sans Mono",
+           "line_padding_bottom": -2,
+           "line_padding_top": 0
+       }
 
 Screenshot
 ----------
