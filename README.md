@@ -39,7 +39,7 @@ For a very elegant coding environment, my preferred setup is:
        {
            "theme": "Soda Light.sublime-theme",
            "soda_classic_tabs": true,
-           "color_scheme": "Packages/Color Scheme RSE/RSE.tmTheme",
+           "color_scheme": "Packages/Color Scheme - RSE/RSE.tmTheme",
            "font_face": "DejaVu Sans Mono",
            "line_padding_bottom": -2,
            "line_padding_top": 0
