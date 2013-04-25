@@ -21,6 +21,11 @@ preferences and you get a very elegant coding environment:
         "line_padding_top": 0
     }
 
+Screenshot
+----------
+
+![Screenshot](screenshot.png "Sublime Text 2 with Color Scheme RSE and theme Soda Light")
+
 License
 -------
 
