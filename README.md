@@ -7,10 +7,11 @@ Sublime Text editor (http://www.sublimetext.com/). It uses just 4
 colors: "white" for the background, "black" as the default text color,
 "blue" for all language constructs (keywords and punctation characters)
 and "brown" for all literals (strings, numbers, etc). Nothing more,
-nothing less! Use this in combination with the great "Soda Light" theme.
-For this, use Package Control to install "Theme - Soda" and "Color
-Scheme - RSE" and use the following additional Sublime Text 2 user
-preferences and you get a very elegant coding environment:
+nothing less! Use this in combination with the great "Soda Light" theme
+and the awesome DejaVu Sans Mongo font. For this, use Package Control to
+install "Theme - Soda" and "Color Scheme - RSE", install the DejaVu font
+set from http://dejavu-fonts.org/ and then use the following Sublime
+Text 2 user preferences and you get a very elegant coding environment:
 
     {
         "theme": "Soda Light.sublime-theme",
