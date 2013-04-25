@@ -31,19 +31,22 @@ For a very elegant coding environment, my preferred setup is:
    http://dejavu-fonts.org/<br/>
    (the font for the text area)
 
-6. Use the following Sublime Text 2 User Preferences which enables the
+6. Use the Sublime Text 2 User Preferences below, which enables the
    theme, color scheme and font and especially reduces the total line
    height (very important as for coding we need the maximum number of
-   lines on the screen):
+   lines on the screen).
 
-       {
-           "theme": "Soda Light.sublime-theme",
-           "soda_classic_tabs": true,
-           "color_scheme": "Packages/Color Scheme - RSE/RSE.tmTheme",
-           "font_face": "DejaVu Sans Mono",
-           "line_padding_bottom": -2,
-           "line_padding_top": 0
-       }
+User Preferences
+----------------
+
+    {
+        "theme": "Soda Light.sublime-theme",
+        "soda_classic_tabs": true,
+        "color_scheme": "Packages/Color Scheme - RSE/RSE.tmTheme",
+        "font_face": "DejaVu Sans Mono",
+        "line_padding_bottom": -2,
+        "line_padding_top": 0
+    }
 
 Screenshot
 ----------
