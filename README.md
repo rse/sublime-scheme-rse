@@ -1,4 +1,3 @@
-
 Sublime Text Color Scheme RSE
 =============================
 
@@ -16,7 +15,7 @@ For a very elegant coding environment, my preferred setup is:
    (the editor itself)
 
 2. Install Package Control for Sublime Text 2:<br/>
-   http://wbond.net/sublime\_packages/package\_control <br/>
+   http://wbond.net/sublime_packages/package_control <br/>
    (the package manager for the editor)
 
 3. Install theme "Soda Light" via Package Control<br/>
