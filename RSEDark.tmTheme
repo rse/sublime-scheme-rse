@@ -22,7 +22,7 @@
                 <key>selection</key>
                 <string>#455566</string>
                 <key>selectionBorder</key>
-                <string>#c5e5FF</string>
+                <string>#455566</string>
                 <key>inactiveSelection</key>
                 <string>#D4D4D4</string>
                 <key>findHighlight</key>
