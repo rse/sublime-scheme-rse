@@ -11,7 +11,8 @@ nothing less!
 License
 -------
 
-Copyright &copy; 2012-2013 Ralf S. Engelschall (rse@engelschall.com)
+Original theme by Ralf S. Engelschall (rse@engelschall.com)
+Modified by Anton Verinov
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
