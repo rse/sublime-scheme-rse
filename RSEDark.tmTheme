@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>RSE</string>
+	<string>RSEDark</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -18,13 +18,13 @@
                 <key>invisibles</key>
                 <string>#E0E0E0</string>
                 <key>lineHighlight</key>
-                <string>#1B1C16</string>
+                <string>#191A14</string>
                 <key>selection</key>
                 <string>#455566</string>
                 <key>selectionBorder</key>
                 <string>#455566</string>
                 <key>inactiveSelection</key>
-                <string>#D4D4D4</string>
+                <string>#191A14</string>
                 <key>findHighlight</key>
                 <string>#F4DE88</string>
                 <key>findHighlightForeground</key>
