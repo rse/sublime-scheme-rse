@@ -53,6 +53,48 @@ Screenshot
 
 ![Screenshot](screenshot.png "Sublime Text 2 with Color Scheme RSE and theme Soda Light")
 
+My Favorite Sublime Plugins
+---------------------------
+
+As I'm regularily asked which Sublime Text plugins I install via Package
+Control for additional functionality in addition to the above basic
+style, here is my list of recommended plugins:
+
+- Additional Interface Functionality:
+  - SideBarEnhancements (sidebar addition: filesystem operations)
+  - Terminal (sidebar addition: open terminal here)
+  - WordCount (statusbar addition: word count)
+
+- Editing:
+  - Auto Autocomplete (source code completion)
+  - Vintage (Vi mode - for Sublime Text 2 only: already ships with it)
+  - Vintagous (Vi mode - for Sublime Text 3 only: the better Vintage)
+  - VintageEx (Ex mode for Vi mode)
+
+- Source Code:
+  - SublimeLinter (source code linting)
+  - SublimeCodeIntel (source code lookup/completion)
+
+- Version Control Systems:
+  - SVN (general Subversion tool integration)
+  - Git (general Git tool integration)
+  - SideBarGit (sidebar addition: Git commands)
+  - Git Gutter (gutter addition: Git diff-style information)
+  - GitConfig (.gitconfig file support)
+
+- Build Tools:
+  - Grunt
+  - Ant
+
+- Additional Languages and Macros:
+  - MarkdownEditing 
+  - TypeScript
+  - TypeScript Compiler
+  - LaTeXTools
+  - LESS
+  - HTML5
+  - Emmet
+
 License
 -------
 
