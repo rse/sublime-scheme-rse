@@ -10,11 +10,11 @@ nothing less!
 
 For a very elegant coding environment, my preferred setup is:
 
-1. Install Sublime Text 2<br/>
+1. Install Sublime Text 2/3<br/>
    http://www.sublimetext.com/<br/>
    (the editor itself)
 
-2. Install Package Control for Sublime Text 2:<br/>
+2. Install Package Control for Sublime Text 2/3:<br/>
    http://wbond.net/sublime_packages/package_control <br/>
    (the package manager for the editor)
 
@@ -30,7 +30,7 @@ For a very elegant coding environment, my preferred setup is:
    http://dejavu-fonts.org/<br/>
    (the font for the text area)
 
-6. Use the Sublime Text 2 User Preferences below, which enables the
+6. Use the Sublime Text 2/3 User Preferences below, which enables the
    theme, color scheme and font and especially reduces the total line
    height (very important as for coding we need the maximum number of
    lines on the screen).
