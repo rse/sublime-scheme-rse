@@ -22,7 +22,7 @@ For a very elegant coding environment, my preferred setup is:
    http://buymeasoda.github.io/soda-theme/ <br/>
    (the GUI theme for the editor)
 
-4. Install this color schema "Color Schema - RSE" via Package Control<br/>
+4. Install this color schema "Color Scheme - RSE" via Package Control<br/>
    https://github.com/rse/sublime-scheme-rse<br/>
    (the color scheme for the text area)
 
