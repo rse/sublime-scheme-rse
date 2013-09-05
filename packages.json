@@ -10,8 +10,8 @@
             "platforms": {
                 "*": [
                     {
-                        "version": "1.0.0",
-                        "url": "https://nodeload.github.com/rse/sublime-scheme-rse/zip/sublime-scheme-rse-1.0.0"
+                        "version": "1.0.2",
+                        "url": "https://codeload.github.com/rse/sublime-scheme-rse/zip/sublime-scheme-rse-1.0.2"
                     }
                 ]
             }
