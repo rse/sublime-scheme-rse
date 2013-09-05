@@ -1,20 +1,17 @@
 {
-    "schema_version": "1.2",
+    "schema_version": "2.0",
     "packages": [
         {
-            "name": "Color Scheme - RSE",
-            "description": "Sublime Color Scheme RSE",
+			"name": "Color Scheme - RSE",
             "author": "Ralf S. Engelschall",
-            "homepage": "https://github.com/rse/sublime-scheme-rse",
-            "last_modified": "2013-03-23 00:00:00",
-            "platforms": {
-                "*": [
-                    {
-                        "version": "1.0.2",
-                        "url": "https://codeload.github.com/rse/sublime-scheme-rse/zip/sublime-scheme-rse-1.0.2"
-                    }
-                ]
-            }
+			"details": "https://github.com/rse/sublime-scheme-rse",
+			"labels": [ "color scheme" ],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/rse/sublime-scheme-rse/tags"
+				}
+			]
         }
     ]
 }
