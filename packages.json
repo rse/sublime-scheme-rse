@@ -8,6 +8,7 @@
             "labels": [ "color scheme" ],
             "releases": [
                 {
+                    "sublime_text": "*",
                     "details": "https://github.com/rse/sublime-scheme-rse/tags"
                 }
             ]
