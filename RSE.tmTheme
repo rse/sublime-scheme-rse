@@ -553,6 +553,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JS</string>
+			<key>scope</key>
+			<string>constant.other.object.key.js, string.unquoted.label.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: Function Name</string>
+			<key>scope</key>
+			<string>meta.function.arrow.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#408edc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>JS: Source</string>
 			<key>scope</key>
 			<string>text.html.basic source.js.embedded.html</string>
@@ -691,13 +713,13 @@
 			<key>name</key>
 			<string>HTML: =</string>
 			<key>scope</key>
-			<string>text.html.basic meta.tag.other.html, text.html.basic meta.tag.any.html, text.html.basic meta.tag.block.any, text.html.basic meta.tag.inline.any, text.html.basic meta.tag.structure.any.html, text.html.basic source.js.embedded.html, punctuation.separator.key-value.html</string>
+			<string>text.html.basic meta.tag.other.html, text.html.basic meta.tag.any.html, text.html.basic meta.tag.block.any, text.html.basic meta.tag.inline.any, text.html.basic meta.tag.structure.any.html, text.html.basic source.js.embedded.html, punctuation.separator.key-value</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#81b5e8</string>
+				<string>#408edc</string>
 			</dict>
 		</dict>
 		<dict>
