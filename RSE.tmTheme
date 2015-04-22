@@ -117,7 +117,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#268BD2</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,7 +237,10 @@
 			<key>scope</key>
 			<string>variable.parameter</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
